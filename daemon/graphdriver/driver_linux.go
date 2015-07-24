@@ -53,6 +53,7 @@ var (
 		FsMagicUnsupported: "unsupported",
 		FsMagicXfs:         "xfs",
 		FsMagicZfs:         "zfs",
+		FsMagicVxFS: 	    "VxFS",
 	}
 )
 
