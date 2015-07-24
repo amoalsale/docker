@@ -23,6 +23,7 @@ const (
 	FsMagicTmpFs    = FsMagic(0x01021994)
 	FsMagicXfs      = FsMagic(0x58465342)
 	FsMagicZfs      = FsMagic(0x2fc12fc1)
+	FsMagicVxFS	= FsMagic(0xa0501fcf5)
 )
 
 var (
